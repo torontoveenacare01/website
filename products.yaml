@@ -1,0 +1,48 @@
+# products.yaml
+- id: 1
+  name: "Saraswati Veena (Thanjavur Style)"
+  description: "A handcrafted jackwood Veena with traditional carvings and a resonant tone. Perfect for concert-level performance."
+  image: "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&q=80&w=800"
+  type: "Instrument"
+
+- id: 2
+  name: "Veena Restringing Service"
+  description: "Complete restringing service using high-grade brass and steel strings. Includes fret polishing."
+  image: "https://images.unsplash.com/photo-1550684848-fac1c5b4e853?auto=format&fit=crop&q=80&w=800"
+  type: "Service"
+
+- id: 3
+  name: "Fibreglass Veena Case"
+  description: "Lightweight, shock-absorbent fiberglass case designed for air travel. Velvet-lined interior."
+  image: "https://images.unsplash.com/photo-1550684848-fac1c5b4e853?auto=format&fit=crop&q=80&w=800"
+  type: "Accessory"
+
+- id: 4
+  name: "Melam Setting & Waxing"
+  description: "Professional fret setting (Melam) using traditional beeswax and coal powder formulation for authentic sound."
+  image: "https://images.unsplash.com/photo-1508615039623-a25605d2b022?auto=format&fit=crop&q=80&w=800"
+  type: "Service"
+
+- id: 5
+  name: "Practice Veena (Mini)"
+  description: "A compact Veena designed for children and beginners. Comfortable scale length for learning."
+  image: "https://images.unsplash.com/photo-1557682250-33bd709cbe85?auto=format&fit=crop&q=80&w=800"
+  type: "Instrument"
+
+- id: 6
+  name: "Electronic Sruti Box"
+  description: "Compact digital Sruti box with precise pitch control. Essential for practice and concerts."
+  image: "https://images.unsplash.com/photo-1557682224-5b8590cd9ec5?auto=format&fit=crop&q=80&w=800"
+  type: "Accessory"
+
+- id: 7
+  name: "Structural Repair Service"
+  description: "Expert repair for cracked gourds (kudam) or neck joints. We use traditional glues to maintain acoustic integrity."
+  image: "https://images.unsplash.com/photo-1557682260-96773eb01377?auto=format&fit=crop&q=80&w=800"
+  type: "Service"
+
+- id: 8
+  name: "Veena Stand (Rosewood)"
+  description: "Foldable wooden stand to hold the Veena safely during practice sessions."
+  image: "https://images.unsplash.com/photo-1614850523459-c2f4c699c52e?auto=format&fit=crop&q=80&w=800"
+  type: "Accessory"
