@@ -3,6 +3,7 @@
 
 import { useState, useEffect } from "react";
 import Image from "next/image";
+import image1 from "../../public/images/Rotator1.jpg"
 import { Instagram, Facebook, Phone, ArrowRight, Send, CheckCircle2, Music2 } from "lucide-react";
 
 const SOCIALS = [
@@ -13,6 +14,7 @@ const SOCIALS = [
 ];
 
 const HERO_IMAGES = [
+  {image1}
   "https://images.unsplash.com/photo-1557683316-973673baf926?auto=format&fit=crop&q=80&w=1920",
   "https://images.unsplash.com/photo-1620121692029-d088224ddc74?auto=format&fit=crop&q=80&w=1920",
   "https://images.unsplash.com/photo-1615803709035-09252037cb97?auto=format&fit=crop&q=80&w=1920",
