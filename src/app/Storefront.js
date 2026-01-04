@@ -14,7 +14,7 @@ const SOCIALS = [
 ];
 
 const HERO_IMAGES = [
-  {image1}
+   "https://photos.app.goo.gl/UjqeTRX5Hh1rBQvK6?auto=format&fit=crop&q=80&w=1920",
   "https://images.unsplash.com/photo-1557683316-973673baf926?auto=format&fit=crop&q=80&w=1920",
   "https://images.unsplash.com/photo-1620121692029-d088224ddc74?auto=format&fit=crop&q=80&w=1920",
   "https://images.unsplash.com/photo-1615803709035-09252037cb97?auto=format&fit=crop&q=80&w=1920",
