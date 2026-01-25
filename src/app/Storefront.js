@@ -4,6 +4,12 @@
 import { useState, useEffect } from "react";
 import Image from "next/image";
 import image1 from "../../public/images/Rotator1.jpg"
+import image2 from "../../public/images/Rotator2.jpg"
+import image3 from "../../public/images/Rotator3.jpg"
+import image4 from "../../public/images/Rotator4.jpg"
+import image5 from "../../public/images/Rotator5.jpg"
+import image6 from "../../public/images/Rotator6.jpg"
+
 import { Instagram, Facebook, Phone, ArrowRight, Send, CheckCircle2, Music2 } from "lucide-react";
 
 const SOCIALS = [
@@ -14,9 +20,12 @@ const SOCIALS = [
 ];
 
 const HERO_IMAGES = [
-  "https://photos.app.goo.gl/UjqeTRX5Hh1rBQvK6?auto=format&fit=crop&q=80&w=1920",
-  "https://images.unsplash.com/photo-1620121692029-d088224ddc74?auto=format&fit=crop&q=80&w=1920",
-  "https://images.unsplash.com/photo-1615803709035-09252037cb97?auto=format&fit=crop&q=80&w=1920",
+   {image1},
+   {image2},
+   {image3},
+   {image4},
+   {image5},
+   {image6}
 ];
 
 export default function Storefront({ products }) {
