@@ -2,7 +2,7 @@
 - id: 1
   name: "Saraswati Veena (Thanjavur Style)"
   description: "A handcrafted jackwood Veena with traditional carvings and a resonant tone. Perfect for concert-level performance."
-  image: "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&q=80&w=800"
+  image: "/images/Rotator1.jpg"
   type: "Instrument"
 
 - id: 2
