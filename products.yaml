@@ -1,27 +1,27 @@
 # products.yaml
 - id: 1
-  name: "Saraswati Veena (Thanjavur Style)"
+  name: "Veena Instruments"
   description: "A handcrafted jackwood Veena with traditional carvings and a resonant tone. Perfect for concert-level performance."
-  image: "/images/Rotator1.jpg"
+  image: "/images/TorontoVeenaCare1.jpeg"
   type: "Instrument"
 
 - id: 2
   name: "Veena Restringing Service"
   description: "Complete restringing service using high-grade brass and steel strings. Includes fret polishing."
-  image: "https://images.unsplash.com/photo-1550684848-fac1c5b4e853?auto=format&fit=crop&q=80&w=800"
+  image: "/images/TorontoVeenaCareRestring1.jpg"
   type: "Service"
 
 - id: 3
-  name: "Fibreglass Veena Case"
-  description: "Lightweight, shock-absorbent fiberglass case designed for air travel. Velvet-lined interior."
-  image: "https://images.unsplash.com/photo-1550684848-fac1c5b4e853?auto=format&fit=crop&q=80&w=800"
+  name: "Veena Stand"
+  description: "Lightweight, Wooden stand"
+  image: "/images/TorontoVeenaCareStand1.jpg"
   type: "Accessory"
 
 - id: 4
-  name: "Melam Setting & Waxing"
+  name: "Music Books"
   description: "Professional fret setting (Melam) using traditional beeswax and coal powder formulation for authentic sound."
-  image: "https://images.unsplash.com/photo-1508615039623-a25605d2b022?auto=format&fit=crop&q=80&w=800"
-  type: "Service"
+  image: "/images/TorontoVeenaCareBook1.jpg"
+  type: "Books"
 
 - id: 5
   name: "Practice Veena (Mini)"
