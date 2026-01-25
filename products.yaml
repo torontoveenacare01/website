@@ -14,35 +14,35 @@
 - id: 3
   name: "Veena Stand"
   description: "Lightweight, Wooden stand"
-  image: "/images/TorontoVeenaCareStand1.jpg"
+  image: "/images/TorontoVeenaCareStd1.jpg"
   type: "Accessory"
 
 - id: 4
   name: "Music Books"
-  description: "Professional fret setting (Melam) using traditional beeswax and coal powder formulation for authentic sound."
+  description: "Top recommendations for books on Indian music."
   image: "/images/TorontoVeenaCareBook1.jpg"
   type: "Books"
 
 - id: 5
   name: "Practice Veena (Mini)"
-  description: "A compact Veena designed for children and beginners. Comfortable scale length for learning."
-  image: "https://images.unsplash.com/photo-1557682250-33bd709cbe85?auto=format&fit=crop&q=80&w=800"
+  description: "A compact Veena designed for practice"
+  image: "/images/TorontoVeenaCareVeena2.jpg"
   type: "Instrument"
 
 - id: 6
   name: "Electronic Sruti Box"
   description: "Compact digital Sruti box with precise pitch control. Essential for practice and concerts."
-  image: "https://images.unsplash.com/photo-1557682224-5b8590cd9ec5?auto=format&fit=crop&q=80&w=800"
+  image: "/images/TorontoVeenaCareSrutiBox1.jpg"
   type: "Accessory"
 
 - id: 7
   name: "Structural Repair Service"
   description: "Expert repair for cracked gourds (kudam) or neck joints. We use traditional glues to maintain acoustic integrity."
-  image: "https://images.unsplash.com/photo-1557682260-96773eb01377?auto=format&fit=crop&q=80&w=800"
+  image: "/images/TorontoVeenaCareKudam4.jpg"
   type: "Service"
 
 - id: 8
   name: "Veena Stand (Rosewood)"
   description: "Foldable wooden stand to hold the Veena safely during practice sessions."
-  image: "https://images.unsplash.com/photo-1614850523459-c2f4c699c52e?auto=format&fit=crop&q=80&w=800"
+  image: "/images/TorontoVeenaCareStand9.jpg"
   type: "Accessory"
